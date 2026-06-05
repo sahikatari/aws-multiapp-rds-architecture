@@ -1,4 +1,4 @@
-const express = require("express");
+onst express = require("express");
 const mysql = require("mysql2");
 const bodyParser = require("body-parser");
 
@@ -9,9 +9,9 @@ app.set("view engine", "ejs");
 
 // RDS Connection
 const db = mysql.createConnection({
-    host: "multiple-apps-db.cfsiea4gms2x.eu-west-1.rds.amazonaws.com",
+    host: "YOUR-RDS-PASSWORD",
     user: "admin",
-    password: "admin1234",
+    password: "YOU-PASSWORD",
     database: "companydb"
 });
 
