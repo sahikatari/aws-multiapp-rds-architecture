@@ -315,6 +315,59 @@ http://<SERVER_IP>
 * 🏗️ Cloud Architecture Design
 * 🛠️ Troubleshooting & Deployment Automation
 
+  # 📸 Application Screenshots
+
+## 🌐 RDS Creation
+
+![Home Page](Images/RDS-Creation.jpg)
+
+---
+## 🔐 AWS Security Group
+
+![Security Group](Images/securitgroup-output.jpg)
+
+---
+
+## 🗄️ APP1
+
+![Database](Images/python-output.jpg)
+
+---
+
+
+## 🗄️App1-Database-Output
+
+![Database](Images/pythonapp-db.jpg)
+
+---
+
+## 🗄️ APP2
+
+![Database](Images/nodeapp-output.jpg)
+
+---
+
+
+## 🗄️App1-Database-Output
+
+![Database](Images/nodeapp-db.jpg)
+
+---
+
+## 🗄️ APP3
+
+![Database](Images/app3-output.jpg)
+
+---
+
+
+## 🗄️App1-Database-Output
+
+![Database](Images/app3-db.jpg)
+
+---
+
+
 
 
 
