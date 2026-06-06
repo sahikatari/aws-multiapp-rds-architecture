@@ -299,7 +299,9 @@ sudo systemctl restart nginx
 ```text
 http://<SERVER_IP>
 ```
-### 🎯 Skills Gained
+---
+
+## 🎯 Skills Gained
 
 * ☁️ AWS EC2 & RDS Configuration
 * 🌐 Nginx Reverse Proxy Setup
@@ -315,6 +317,7 @@ http://<SERVER_IP>
 * 🏗️ Cloud Architecture Design
 * 🛠️ Troubleshooting & Deployment Automation
 
+---
   # 📸 Application Screenshots
 
 ## 🌐 RDS Creation
@@ -348,7 +351,7 @@ http://<SERVER_IP>
 ---
 
 
-## 🗄️App1-Database-Output
+## 🗄️App2-Database-Output
 
 ![Database](Images/nodeapp-db.jpg)
 
@@ -361,7 +364,7 @@ http://<SERVER_IP>
 ---
 
 
-## 🗄️App1-Database-Output
+## 🗄️App3-Database-Output
 
 ![Database](Images/app3-db.jpg)
 
