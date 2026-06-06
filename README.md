@@ -281,7 +281,7 @@ sudo nano admin.php
 mysql -h rds-name -u admin -p
 ```
 
-### Nginx Reverse Proxy Configuration
+### Nginx Configuration
 
 ```nginx id="q7j1zy"
  Refer to config-app3 file.
