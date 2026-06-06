@@ -324,7 +324,7 @@ http://<SERVER_IP>
 ---
 ## 🔐 AWS Security Group
 
-![Security Group](Images/securitgroup-output.jpg)
+![Security Group](Images/securitygroup-output.jpg)
 
 ---
 
